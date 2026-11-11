@@ -1,0 +1,23 @@
+# Rahasia dan konfigurasi lokal
+.env
+
+# Lingkungan virtual
+venv/
+.venv/
+
+# Database lokal
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Tool lokal
+.qoder/
