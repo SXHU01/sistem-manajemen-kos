@@ -2,7 +2,7 @@
 
 Manage Your Property, Simplify Your Business.
 
-Aplikasi web untuk mengelola dua properti kos: kamar, penghuni, penyewaan, tagihan, pembayaran, dan laporan.
+Aplikasi web untuk mengelola properti kos: kamar, penghuni, penyewaan, tagihan, pembayaran, dan laporan.
 
 ## Menjalankan secara lokal
 
