@@ -1,0 +1,15 @@
+# KosManage · Design System v2.4 · token tema (Bagian 10)
+# Dua mode memakai token yang sama; espresso sebagai primer.
+[theme]
+base = "light"
+primaryColor = "#2E2A24"
+backgroundColor = "#F3EFE6"
+secondaryBackgroundColor = "#FBF9F3"
+textColor = "#26221C"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
