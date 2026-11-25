@@ -1,4 +1,4 @@
-# KosManage — Sistem Pengelola Dua Properti Kos
+# KosManage Sistem Pengelola Dua Properti Kos
 
 Source aplikasi admin KosManage sesuai **PRD v1.1** (Python · Streamlit · SQLAlchemy · SQLite · MVC · zona waktu Asia/Jakarta) dan **Design System v2.4** (konten primer dulu: maksimal 3 kartu · 2 tabel · 6 kolom · 1 tombol primer per halaman; banner dihapus → toast + lonceng; detail per baris via dialog).
 
