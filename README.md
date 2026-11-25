@@ -39,6 +39,12 @@ pages/                  # 9 halaman sesuai resep Design System v2.4
 tests/test_rules.py     # unit test BR-01..BR-21 + kontrak fixture
 ```
 
+## Screenshot Aplikasi
+
+### Dashboard
+
+![Dashboard KosManage](docs/screenshots/dashboard.png)
+
 ## Class Diagram
 
 Diagram berikut menggambarkan model data SQLAlchemy pada `database/models.py` beserta modul controller yang menjalankan aturan bisnis. Kotak controller diberi stereotipe `<<module>>` karena implementasinya berupa modul fungsi, bukan class Python.
